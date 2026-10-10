@@ -27,7 +27,7 @@
 3. **M3**：`scripts/smoke.sh`（沙箱或 mock）  
 4. **M4**：对接你业务订单表与退款样例  
 
-详见 `docs/ROADMAP.md`。
+详见 `docs/ROADMAP.md` / `docs/CHECKLIST-M0.md`。
 
 ## 定制合作（可报价）
 
